@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aniruddh111.git.io/static/css/main.6d5cffb4.css",
-    "main.js": "/aniruddh111.git.io/static/js/main.e6aa01d3.js",
+    "main.js": "/aniruddh111.git.io/static/js/main.089a2e1d.js",
     "static/js/787.74ef4986.chunk.js": "/aniruddh111.git.io/static/js/787.74ef4986.chunk.js",
     "index.html": "/aniruddh111.git.io/index.html",
     "main.6d5cffb4.css.map": "/aniruddh111.git.io/static/css/main.6d5cffb4.css.map",
-    "main.e6aa01d3.js.map": "/aniruddh111.git.io/static/js/main.e6aa01d3.js.map",
+    "main.089a2e1d.js.map": "/aniruddh111.git.io/static/js/main.089a2e1d.js.map",
     "787.74ef4986.chunk.js.map": "/aniruddh111.git.io/static/js/787.74ef4986.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d5cffb4.css",
-    "static/js/main.e6aa01d3.js"
+    "static/js/main.089a2e1d.js"
   ]
 }
